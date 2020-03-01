@@ -1,4 +1,5 @@
 ![Hackathon Logo](documentation/images/hackathon.png?raw=true "Hackathon Logo")
+
 # Documentation 
 ## Summary
 
