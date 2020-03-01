@@ -87,4 +87,4 @@ In order to implement de upload feature, the technical approach was based around
 
 ## Video
 
-Direct link to the video: 
+Direct link to the video: https://youtu.be/4Q9uHsMAZt4
